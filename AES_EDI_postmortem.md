@@ -41,7 +41,7 @@ Addition of more monitoring plugins and modules to watch this critical part of t
 
 ## Timeline
 
-02-20-2019 (*all times UTC*)
+04-07-2020 (*all times UTC*)
 
 | Time  | Description |
 | ----- | ----------- |
